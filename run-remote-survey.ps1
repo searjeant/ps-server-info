@@ -22,6 +22,7 @@ To enable WinRM on the remote systems, use this command as Administrator:
 for most machines I'll need to use my 'server account' i.e. with prefix "srv_" and a password,
 because domain users don't have admin rights on servers by default.
 
+Roger Searjeant, Circle Health Group.
 #>
 
 $ServerListPath = "serverlist.txt"
